@@ -41,13 +41,13 @@ Banco PostgreSQL:
 Instalar dependências:
 
 ```bash
-mvn clean install
+mvn clean install ou mvnw.cmd clean install
 ```
 
 Subir aplicação localmente:
 
 ```bash
-mvn spring-boot:run
+mvn spring-boot:run ou mvnw.cmd spring-boot:run
 ```
 
 Aplicação disponível em:
