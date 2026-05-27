@@ -38,6 +38,10 @@ Banco PostgreSQL:
 
 ## Rodar aplicação
 
+- Clonar esse projeto em alguma pasta local.
+- Abrir alguma IDE do Java (utilizei IntelliJ IDEA 2025.3.3).
+- Abrir a pasta clonada do git dentro da IDE.
+
 Instalar dependências:
 
 ```bash
